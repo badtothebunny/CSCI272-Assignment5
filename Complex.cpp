@@ -1,6 +1,6 @@
 #include "Complex.h"
 //Complex class implementation section.
-//Programmed by Maria Psomas
+//Programmed by Badtothebunny
 Complex::Complex()
 {
 	real = 0;
@@ -72,3 +72,4 @@ bool Complex::operator==(Complex &equ)
 	else
 		return false;
 }
+
