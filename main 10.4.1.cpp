@@ -1,5 +1,5 @@
 //This project obtains complex numbers from the user and manipulates them.
-//Programmed by Maria Psomas 
+//Programmed by Badtothebunny 
 #include <iostream>
 #include <iomanip>
 #include <string>
@@ -35,3 +35,4 @@ int main(int argc, char** argv) {
 	cout<<"Thank you for using this program."<<endl;
 	return 0;
 }
+
